@@ -1,1 +1,0 @@
-CTL{Another_FAKE_FLAG}
