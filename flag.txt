@@ -1,1 +1,1 @@
-CTL{FAk3_Fl49}
+CTL{FAKE_FLAG}
